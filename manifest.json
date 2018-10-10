@@ -1,0 +1,12 @@
+{
+	"name": "Aether Newtab Page",
+	"description": "A new tab page for Chrome that brings inspiration and productivity tools",
+	"version": "1.0.0",
+	"manifest_version": 2,
+	"icons": {
+		"128": "icon_128.png"
+	},
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
